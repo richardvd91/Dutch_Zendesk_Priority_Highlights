@@ -4,6 +4,8 @@ Highlight tickets with High or Urgent priority in Views
 
 ## This is a Google Chrome Extension.
 
+Instructions on how to install a Google Chrome Extension can be found [here](https://developer.chrome.com/extensions/getstarted#unpacked).
+
 ### This extension works in the Views pages:
 
 * Identifies tickets that have a Priority.
