@@ -9,8 +9,8 @@ It can be downloaded and installed directly form the Google Web Store [here](htt
 ### This extension works in the Views pages:
 
 * Identifies tickets that have a Priority.
-* Highlights tickets with High priority as yellow.
 * Highlights tickets with Urgent priority as red.
+* Highlights tickets with High priority as yellow.
 * Highlights tickets with Normal priority as green.
 * Highlights tickets with Low priority as blue.
 * User can choose what priorities to highlight in the options page.
