@@ -1,4 +1,4 @@
-⚠️ Use of this software is subject to important terms and conditions as set forth in the [License](https://github.com/aculligan/Zendesk_Priority_Highlights/blob/master/LICENSE.txt) file ⚠️
+⚠️ Use of this software is subject to important terms and conditions as set forth in the [License](https://github.com/aculligan/Zendesk_Priority_Highlights/blob/master/License) file ⚠️
 
 # Zendesk Priority Highlights
 
