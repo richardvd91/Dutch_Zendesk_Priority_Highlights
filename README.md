@@ -1,3 +1,5 @@
+⚠️ Use of this software is subject to important terms and conditions as set forth in the [License](https://github.com/aculligan/Zendesk_Priority_Highlights/blob/master/LICENSE.txt) file ⚠️
+
 # Zendesk Priority Highlights
 
 Highlight Zendesk tickets in Views based on priority
