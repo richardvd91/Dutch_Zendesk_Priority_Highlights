@@ -23,3 +23,7 @@ Please submit bug reports [here](https://github.com/aculligan/Zendesk_Priority_H
 ![Screenshot 1](https://aculligan.github.io/CDN/Zendesk_Priority_Highlights/screenshot-1.png)
 ![Screenshot 2](https://aculligan.github.io/CDN/Zendesk_Priority_Highlights/screenshot-2.png)
 ![Screenshot 3](https://aculligan.github.io/CDN/Zendesk_Priority_Highlights/screenshot-3.png)
+
+### Version:
+
+✅ 🆕 Version 1.0.3 published [here](https://chrome.google.com/webstore/detail/zendesk-priority-highligh/kdnlbgealinpnebnoamnabcpjkifokpk).
