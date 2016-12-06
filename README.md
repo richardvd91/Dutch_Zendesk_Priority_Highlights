@@ -19,7 +19,7 @@ Please submit bug reports [here](https://github.com/aculligan/Zendesk_Priority_H
 
 ### Screenshots:
 
-![Screenshot 1](https://aculligan.github.io/CDN/Zendesk_Priority_Highlights/img/screenshot-1.png) ![Screenshot 2](https://aculligan.github.io/CDN/Zendesk_Priority_Highlights/img/screenshot-2.png) ![Screenshot 3](https://aculligan.github.io/CDN/Zendesk_Priority_Highlights/img/screenshot-3.png) ![Screenshot 4](https://aculligan.github.io/CDN/Zendesk_Priority_Highlights/img/working.gif)
+![Screenshot 1](https://aculligan.github.io/CDN/Zendesk_Priority_Highlights/img/screenshot-1.png) ![Screenshot 2](https://aculligan.github.io/CDN/Zendesk_Priority_Highlights/img/screenshot-2.png) ![Screenshot 3](https://aculligan.github.io/CDN/Zendesk_Priority_Highlights/img/screenshot-3.png)
 
 ### Version:
 
