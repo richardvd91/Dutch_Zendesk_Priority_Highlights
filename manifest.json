@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "name": "Zendesk Priority Highlights",
+  "short_name": "Priority Highlights",
+  "version": "1.0.4",
+  "description": "Highlight Zendesk tickets in Views based on priority",
+  "icons": {"16": "assets/img/icon.png",
+           "48": "assets/img/icon.png",
+           "128": "assets/img/icon.png"},
+  "page_action": {
+    "name": "Zendesk Priority Highlights",
+    "default_icon": {"16": "assets/img/icon.png",
+                     "24": "assets/img/icon.png",
+                     "32": "assets/img/icon.png"}
+  },
+  "author": "Alex Culligan",
+  "background": {
+    "scripts": ["assets/js/background.js"],
+    "persistent": false
+  },
+  "content_scripts": [ {
+    "run_at": "document_end",
+    "js": [ "assets/js/jquery-3.1.1.min.js", "assets/js/content.js"],
+    "matches": [ "https://*.zendesk.com/agent/*"]
+  }],
+  "options_ui": {
+    "page": "assets/html/options.html",
+    "chrome_style": true
+  },
+  "permissions" : [
+    "declarativeContent",
+    "storage"
+  ],
+  "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'"
+}
