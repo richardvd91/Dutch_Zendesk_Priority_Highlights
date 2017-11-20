@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Zendesk Priority Highlights",
-  "short_name": "Priority Highlights",
-  "version": "1.0.4",
+  "name": "Zendesk Priority Highlights Dutch",
+  "short_name": "[NL] Priority Highlights",
+  "version": "1.0.4.1",
   "description": "Highlight Zendesk tickets in Views based on priority",
   "icons": {"16": "assets/img/icon.png",
            "48": "assets/img/icon.png",
